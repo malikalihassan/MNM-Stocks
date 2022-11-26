@@ -1,7 +1,8 @@
 from django.db import models
 
 
-# Create your models here.
+# Create your models here. 
+# Symbol is intensionally varchar and primary key according to my understanding of the problem
 
 
 class Stocks(models.Model):
