@@ -5,3 +5,6 @@ Three Apps
    -->Stock Data
    -->Insider Trasaction
    --->Valuation APP
+
+
+<img src="capita.PNG" alt="Alt text" title="Optional title">
